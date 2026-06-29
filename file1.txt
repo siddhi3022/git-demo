@@ -1,2 +1,3 @@
 Good morning
-today is saturday
+today is Saturday
+Devops leccture

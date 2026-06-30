@@ -1,3 +1,2 @@
 we are learning git command today
-a aa
-oliolik
+a 
